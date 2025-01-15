@@ -541,7 +541,7 @@ export default function TaqatForm() {
                                             ref={signaturePadRef}
                                             penColor="black"
                                             canvasProps={{
-                                                width: 300,
+                                                width: 250,
                                                 height: 150,
                                                 className: "sigCanvas",
                                             }}
